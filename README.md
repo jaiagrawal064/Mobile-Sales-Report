@@ -37,8 +37,7 @@ Interactive Power BI dashboard to analyze mobile sales performance, customer beh
 ---
 
 ## 📸 Dashboard Preview  
-
-![Dashboard](dashboard.png)
+![Dashboard](Mobile Sales.png)
 
 ---
 
