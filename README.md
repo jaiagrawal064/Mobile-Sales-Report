@@ -1,7 +1,7 @@
 # 📊 Mobile Sales Dashboard (Power BI)
 
 ## 🚀 Overview  
-Interactive Power BI dashboard to analyze mobile sales performance, customer behavior, and payment trends using dynamic visualizations and KPIs.
+Interactive Power BI dashboard to analyze mobile sales performance, customer behaviors, and payment trends using dynamic visualizations and KPIs to take better decision for business growth.
 
 ---
 
@@ -32,7 +32,8 @@ Interactive Power BI dashboard to analyze mobile sales performance, customer beh
 ## 🛠️ Tools Used  
 - Power BI  
 - DAX  
-- Data Visualization  
+- Data Visualization
+- Data cleaning (Power Query)
 
 ---
 
